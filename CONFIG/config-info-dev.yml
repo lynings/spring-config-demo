@@ -1,4 +1,4 @@
 cn:
   springcloud:
     medical: 
-      config: Hello World!!!
+      config: Hello Dev Env!!!
