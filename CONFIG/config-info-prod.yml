@@ -1,0 +1,4 @@
+cn:
+  springcloud:
+    medical:
+      config: Hello Prod Env!!!
